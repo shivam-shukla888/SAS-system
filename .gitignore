@@ -1,0 +1,6 @@
+tfenv/
+__pycache__/
+*.pyc
+outputs/
+data/
+gnhk_dataset/
